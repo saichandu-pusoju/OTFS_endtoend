@@ -1,0 +1,1 @@
+Simulated an end-to-end OTFS system in Python, modeling delay–Doppler channels with multiple taps and Doppler shifts. Implemented ZAK transform, cyclic prefix, and both MMSE and ZF equalizers. Generated BER vs SNR curves through Monte Carlo trials, enabling performance comparison under varying SNR conditions.
